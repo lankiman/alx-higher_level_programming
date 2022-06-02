@@ -9,4 +9,4 @@ if __name__ == "__main__":
 
     result = add(a, b)
 
-    print("{a} + {b} = {result}")
+    print(a,"+", b,"=",result)
